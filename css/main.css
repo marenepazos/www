@@ -99,10 +99,11 @@ textarea {
    ========================================================================== */
 body{
   font-family: 'Montserrat', sans-serif;
+  background: #e4f2f1;
 }
 
 nav, footer{
-  width: 100%;
+  width: 110%;
   height: 90px;
   background: #4d6873;
 }
@@ -135,17 +136,22 @@ li{
 h2{
     color: #f5bcbd;
     font-size: 48px;
+    margin-top: 36px;
 }
 
 p{
   color: #568fa6;
-  font-size: 36px;
+  font-size: 20px;
   text-align: justify;
 }
 
 img{
   width: 100%;
   max-width: 100%;
+}
+
+.bio{
+  margin: 24px;
 }
 
 
